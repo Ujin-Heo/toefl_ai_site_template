@@ -1,0 +1,28 @@
+.passage-title {
+    margin-bottom: 30px;
+}
+
+
+.problem {
+    height: 30vh;
+}
+
+.answer {
+    height: 30vh;
+}
+
+.problem, .answer {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+}
+
+.problem span, .answer span {
+    margin-bottom: 20px;
+}
+
+.problem ul li {
+    margin: 10px 0;
+}
